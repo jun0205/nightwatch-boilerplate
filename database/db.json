@@ -1,0 +1,18 @@
+{
+  "users": [{
+      "loginId": "TEST-PL",
+      "password": "passw0rd!",
+      "valid": true
+    },
+    {
+      "loginId": "测试中文",
+      "password": "123456",
+      "valid": true
+    },
+    {
+      "loginId": "test1cx",
+      "password": "12345s6",
+      "valid": false
+    }
+  ]
+}
